@@ -22,16 +22,10 @@ Features :-
 
 Technologies Used :-
 ------------------------------------------------------------
-  Java
-  Spring Boot 
-  Spring Data JPA/Hibernate
-  MySQL
-  Spring Boot Mail
-  Maven
-  REST API
+  Java | Spring Boot | Spring Data JPA/Hibernate | MySQL | Spring Boot Mail | Maven | REST API
 
 Run the Project :-
 -------------------------------------------------------------
 Configure MySQL in application.properties
-Run App.java 
+Run App.java
 Test APIs using Postman.
